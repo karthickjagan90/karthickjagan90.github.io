@@ -12,7 +12,7 @@ var bio = {
 	},
 	"welcomeMessage" : "Welcome to my first Javascript-created page",
 	"skills" : [ "C/basics C++", "basics python", "Javascript", "html","css","jquery","awesomeness"],
-	"bioPic" : "/home/karthickj/Desktop/final resume project/images/55 001_opt.jpg"
+	"bioPic" : "../images/55 001_opt.jpg"
 };
 
 bio.display = function() {
